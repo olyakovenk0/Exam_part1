@@ -1,0 +1,15 @@
+{
+  "email": "olhaa@example.com",
+  "password": "11Qwerty!",
+  "country": "country",
+  "name": "name",
+  "mobileNumber": "mobileNumber",
+  "zipCode": "zipcode",
+  "address": "address",
+  "city": "city",
+  "state": "state",
+  "cardNumber": "cardNumber",
+  "expirydDate": "expiryDate",
+  "expiryYear": "expiryYear",
+  "comment": "comment"
+}
